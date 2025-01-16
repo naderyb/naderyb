@@ -53,9 +53,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical)  
 ![Achievements](https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical)
 ![Code Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical)
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/wakatime?username=naderyb&theme=radical)
+
+---
 ## Profile visite:
 ![Profile Visits](https://profile-counter.glitch.me/naderyb/count.svg)
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/wakatime?username=naderybe&theme=radical)
 
 ---
 
