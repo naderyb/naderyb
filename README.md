@@ -5,16 +5,13 @@
 
 ---
 
-## 🌟 About Me  
-
-> **"Code is not just my skill, it's my language!"**  
+## 🌟 About Me   
 
 - 🌱 **Currently Learning:** React and Node.js to level up my web dev game.  
 - 🔍 **Curious About:** Backend mastery and creating impactful full-stack projects.  
 - 🎯 **Goals:** Solving real-world problems and shining in hackathons.  
 - 💻 **Passion:** Problem-solving and building innovative solutions.  
 - 🎮 **Hobbies:** Gaming, anime marathons, piano sessions, and vibing to lo-fi beats.  
-- ⚡ **Fun Fact:** Coding keeps me sane – whether bored, stressed, or angry!  
 
 ---
 
@@ -52,11 +49,11 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderybe&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderyb&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical)  
 ![Achievements](https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical)
 ![Code Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical)
-![Profile Visits](https://img.shields.io/github/visitor-count/naderyb?color=blue&style=flat)
+![Profile Visits](https://profile-counter.glitch.me/naderyb/count.svg)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical)
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/wakatime?username=naderybe&theme=radical)
 
