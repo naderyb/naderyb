@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Youb Nader!  
 🎓 *Computer Science Student | Web Dev Enthusiast | Cybersecurity Aficionado*  
 
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="50">  
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="150">  
 
 ---
 
@@ -52,14 +52,14 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-![Code Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)  
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical)
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderybe&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical)  
+![Achievements](https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical)
+![Code Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=naderyb&color=blue&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/naderyb?style=for-the-badge&color=yellow)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical)
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/wakatime?username=naderybe&theme=radical)
 
 ---
 
