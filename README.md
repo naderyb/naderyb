@@ -1,59 +1,77 @@
-# Hi there! 👋 I'm youb nader
-Welcome to my GitHub profile! I'm a compuer science student, passionate about web development and cybersecurity.
+# 👋 Hi, I'm Youb Nader!  
+🎓 *Computer Science Student | Web Dev Enthusiast | Cybersecurity Aficionado*  
+
+<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="50">  
 
 ---
 
-## 🚀 About Me
-- 🌱 I’m currently learning: React and Node.js to enhance my web development skills.
-- 🔍 I’m curious about: mastering backend development and diving deeper into full-stack projects.
-- 🎯 I’m aiming to: build applications that solve real-world problems and participate in hackathons.
-- 💻 I enjoy solving problems.
-- 📚 In my free time, I like to: play piano, watch anime and sleep.
-- 🎮 Outside of coding, I love gaming, watching anime, and chilling to lo-fi beats.
-- ⚡ Fun fact: I write code when I'm bored, stressed, or angry, lol!
+## 🌟 About Me  
 
+> **"Code is not just my skill, it's my language!"**  
 
----
-
-## 🛠️ Technologies and Tools
-
-### 🌐 Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-
-### 🖥️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
-### 🧰 Other Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Assembly](https://img.shields.io/badge/-Assembly-525252?logoColor=white&style=for-the-badge)
+- 🌱 **Currently Learning:** React and Node.js to level up my web dev game.  
+- 🔍 **Curious About:** Backend mastery and creating impactful full-stack projects.  
+- 🎯 **Goals:** Solving real-world problems and shining in hackathons.  
+- 💻 **Passion:** Problem-solving and building innovative solutions.  
+- 🎮 **Hobbies:** Gaming, anime marathons, piano sessions, and vibing to lo-fi beats.  
+- ⚡ **Fun Fact:** Coding keeps me sane – whether bored, stressed, or angry!  
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+## 🛠️ Tech Stack & Tools  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+### 🌐 **Frontend Development**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+
+### 🖥️ **Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+### 🧰 **Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+
+### 🧰 **Other Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white)  
 
 ---
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/unnamed0._)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youb.nader@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://nader-youb.netlify.app)
+## 🎯 Current Goals  
 
+- 🌱 **Exploring:** Full-stack development and deepening my knowledge of JavaScript.  
+- 📚 **Learning:** Backend frameworks and database management.  
+- 🚀 **Building:** Applications that solve real-world challenges.  
 
 ---
 
-## 💡 Fun Projects
-- [Graph Theory Project](https://pwd-cracker.netlify.app): A project focused on how backtracking algorithm is used to find a password following a certain rule.
-- [Nrivizi](https://nrivizi.netlify.app): nrivizi is a ressources site, made to help students in my school revise for their exams and tests.
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![Achievements](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![Code Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)  
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical)
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical)
+
+---
+
+## 🌐 Connect With Me  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unnamed0._)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youb.nader@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://nader-youb.netlify.app)  
+
+---
+
+## 💡 Fun Projects  
+
+- [**Graph Theory Project**](https://pwd-cracker.netlify.app): A project demonstrating how backtracking algorithms are used to find passwords following specific rules.  
+- [**Nrivizi**](https://nrivizi.netlify.app): A resource hub to help students at my school prepare for exams and tests.
