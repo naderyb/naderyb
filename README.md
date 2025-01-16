@@ -61,10 +61,12 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderyb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical)  
-![Achievements](https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical)
-![Code Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=naderyb&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical" />
+</div>
 
 ---
 ## Profile visit:
@@ -74,9 +76,17 @@
 
 ## 🌐 Connect With Me  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unnamed0._)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youb.nader@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://nader-youb.netlify.app)  
+<div>
+  <a href="https://instagram.com/unnamed0._">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:youb.nader@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nader-youb.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>  
 
 ---
 
