@@ -13,7 +13,7 @@
 - 🔍 **Curious About:** Backend mastery and creating impactful full-stack projects.  
 - 🎯 **Goals:** Solving real-world problems and shining in hackathons.  
 - 💻 **Passion:** Problem-solving and building innovative solutions.  
-- 🎮 **Hobbies:** Gaming, anime marathons, piano sessions, and vibing to lo-fi beats.  
+- 🎮 **Hobbies:** Anime marathons, piano sessions, and sleeping.  
 
 ---
 
@@ -26,12 +26,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
-  
-
-### 🖥️ **Backend Development**  
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
 
 ### 🧰 **Tools & Platforms**  
 
@@ -43,6 +37,7 @@
 </div>  
 
 ### 🧰 **Other Tools**  
+
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
