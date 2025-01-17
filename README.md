@@ -65,7 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical" />
   <img src="https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyb&theme=radical" />
 </div>
 
 ---
