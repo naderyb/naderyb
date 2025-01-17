@@ -31,7 +31,6 @@
 ### 🖥️ **Backend Development**  
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </div>
 
 ### 🧰 **Tools & Platforms**  
@@ -66,6 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyb&layout=compact&theme=radical" />
   <img src="https://github-profile-trophy.vercel.app/?username=naderyb&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyb&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyb&theme=radical" />
 </div>
 
 ---
