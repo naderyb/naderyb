@@ -98,11 +98,6 @@ Whether I'm leading student workshops, building UI experiences, or breaking thin
 
 ---
 
-## 👀 Profile Visits  
-![Profile Visits](https://profile-counter.glitch.me/naderyb/count.svg)
-
----
-
 ## 🌐 Connect With Me  
 
 <div>
