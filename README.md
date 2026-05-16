@@ -21,7 +21,7 @@
 
 ```bash
 ╔══════════════════════════════════════════════╗
-║  nader@algiers:~$ cat /proc/identity         ║
+║  nader@youb:~$ cat /proc/identity         ║
 ║                                              ║
 ║  Name     ──▶  Mahmoud Nader YOUB           ║
 ║  Origin   ──▶  Batna, Algeria 🇩🇿             ║
@@ -271,7 +271,7 @@ English  -- C1      🇬🇧
 <div align="center">
 
 ```bash
-nader@algiers:~$ uptime
+nader@youb:~$ uptime
 ▶  Building since 2023 | No signs of stopping | Commits committed
 ```
 
